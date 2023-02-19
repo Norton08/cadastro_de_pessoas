@@ -1,0 +1,3 @@
+C:/Users/norto/CLionProjects/cadastro_de_pessoas/cadastro_de_pessoas/cmake-build-debug/CMakeFiles/cadastro_de_pessoas.dir
+C:/Users/norto/CLionProjects/cadastro_de_pessoas/cadastro_de_pessoas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/norto/CLionProjects/cadastro_de_pessoas/cadastro_de_pessoas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
