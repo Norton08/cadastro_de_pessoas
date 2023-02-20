@@ -1,3 +1,4 @@
 # ninja log v5
-0	155	6985215643022627	CMakeFiles/cadastro_de_pessoas.dir/main.c.obj	e29d191235fdafc0
-157	432	6985215646132468	cadastro_de_pessoas.exe	f8153740e6f75f4c
+1	106	6985273445208092	CMakeFiles/cadastro_de_pessoas.dir/main.c.obj	e29d191235fdafc0
+107	242	6985273446548204	cadastro_de_pessoas.exe	f8153740e6f75f4c
+1	244	6985940792655613	build.ninja	18f80faaad487374
