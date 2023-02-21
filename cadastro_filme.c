@@ -1,3 +1,5 @@
+#include "cadastro_filmes.h"
+
 struct filme
 {
     char titulo[50];
