@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
+#include "cadastro_filmes.h"
 
 int main() {
     char caminho[FILENAME_MAX];
