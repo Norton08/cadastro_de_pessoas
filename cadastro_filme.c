@@ -13,8 +13,8 @@ struct filme
 
 Filme *criarFilme()
 {
-    printf("Digite separando por _ ao invés de ")
-    Filme *novoFilme = (Filme *)malloc(sizeof(Filme));
+    printf("Digite sem espaço e sem acentos\n ");
+    Filme* novoFilme = (Filme *)malloc(sizeof(Filme));
     printf("Digite o titulo do filme: ");
     scanf("%s", novoFilme->titulo);
     printf("Digite o diretor do filme: ");
