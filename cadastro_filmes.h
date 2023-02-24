@@ -1,9 +1,13 @@
 typedef struct filme Filme;
 
-Filme criarFilme();
+Filme* criarFilme();
 
-void inserirFilme(Filme novoFilme);
+void inserirFilme(Filme* novoFilme);
 
 void removerFilme(char titulo[]);
 
 void buscarFilme(char busca[]);
+
+void visualizarTodos();
+
+void combinarCadastros();
